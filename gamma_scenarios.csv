@@ -1,0 +1,4 @@
+scenario,gamma_value,formula
+BASE,0.5,MAR21.50 prescribed
+HIGH,0.625,"min(1.25 × 0.5, 1.0) = 0.625"
+LOW,0.375,"max(2 × 0.5 - 1, 0.75 × 0.5) = max(0.0, 0.375) = 0.375"

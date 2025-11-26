@@ -1,0 +1,9 @@
+currency_bucket,raw_sensitivity_usd,risk_weight,weighted_sensitivity_usd
+EUR,13824000.00,0.10606602,1466256.62
+JPY,-8000000.00,0.10606602,-848528.14
+
+scenario,capital_usd
+Low,1322937.82
+Medium,1173420.85
+High,1001832.56
+Final (max),1322937.82

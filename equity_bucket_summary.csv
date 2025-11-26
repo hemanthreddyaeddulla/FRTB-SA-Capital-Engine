@@ -1,0 +1,3 @@
+bucket,market_cap,economy,sector,risk_weight,bucket_sum_S_b,bucket_capital_K_b
+12,Large,Advanced,Large Cap Indices,0.15,450000.0,450000.0
+8,Large,Advanced,Technology/Financials,0.5,600000.0,600000.0

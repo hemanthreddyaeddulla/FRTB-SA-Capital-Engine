@@ -1,0 +1,3 @@
+instrument,position_value,direction,asset_type,bucket,sector,risk_weight,sensitivity,weighted_sensitivity
+SPX,3000000,Long,Index,12,Large Cap Indices,0.15,3000000,450000.0
+AAPL,1200000,Long,Single Stock,8,Technology,0.5,1200000,600000.0
