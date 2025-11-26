@@ -116,7 +116,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Author
 
-**[Your Name]**  
+**Hemanth Reddy Aeddulla**  
 Master of Quantitative Finance, Rutgers Business School  
 [LinkedIn](https://www.linkedin.com/in/ahemanthreddy/) | [Email](mailto:hemanth.reddy@rutgers.edu)
 
