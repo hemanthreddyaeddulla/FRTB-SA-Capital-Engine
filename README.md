@@ -56,7 +56,6 @@ frtb-sa-capital-engine/
 ├── tests/                  # Unit & integration tests
 ├── config/                 # Basel parameters & portfolio specs
 ├── data/                   # Market data & outputs
-└── notebooks/              # Analysis notebooks
 ```
 
 ## Methodology
